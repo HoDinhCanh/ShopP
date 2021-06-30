@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShopP</string>
+    <string name="your">Shop</string>
+    <string name="otp_verification">OTP verification</string>
+    <string name="enter_otp">enter OTP</string>
+    <string name="Enter_Your_Number">Enter your Number</string>
+    <string name="skip_signin">Skip signIn</string>
+</resources>
